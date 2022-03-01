@@ -1,0 +1,30 @@
+{
+    "ip": "200.229.2.90",
+    "type": "ipv4",
+    "continent_code": "NA",
+    "continent_name": "North America",
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "region_code": "SJ",
+    "region_name": "San Jos\u00e9",
+    "city": "San Jos\u00e9",
+    "zip": "1000",
+    "latitude": 9.930000305175781,
+    "longitude": -84.0790023803711,
+    "location": {
+        "geoname_id": 3621849,
+        "capital": "San Jos\u00e9",
+        "languages": [
+            {
+                "code": "es",
+                "name": "Spanish",
+                "native": "Espa\u00f1ol"
+            }
+        ],
+        "country_flag": "https://assets.ipstack.com/flags/cr.svg",
+        "country_flag_emoji": "\ud83c\udde8\ud83c\uddf7",
+        "country_flag_emoji_unicode": "U+1F1E8 U+1F1F7",
+        "calling_code": "506",
+        "is_eu": false
+    }
+}
